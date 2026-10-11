@@ -4,7 +4,7 @@
 **Email:** ayushkhaitan2004@gmail.com  
 **Role:** Forward Deployed Engineer Intern  
 **Project Title:** MatchPulse AI — Live Match Narrative & Turning-Point Companion  
-**Live Demo / Artifact Repository:** Included in this submission package (`MatchPulse_AI_Dream11_Submission.zip`) and runnable locally via `npm run dev` or deployed to Vercel/GitHub.
+**Live Demo / Artifact Repository:** Available on GitHub (runnable locally via `npm run dev` or deployed via Vercel).
 
 ---
 
