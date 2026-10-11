@@ -36,5 +36,3 @@ Visit `http://localhost:5173/` in your browser.
 
 ---
 
-## 📝 200-Word Submission Note
-See [`SUBMISSION_DOCUMENT.md`](./SUBMISSION_DOCUMENT.md) for the verified 174-word submission write-up ready for the Dream11 Google Form.
